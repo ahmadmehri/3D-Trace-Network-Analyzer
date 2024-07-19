@@ -1,3 +1,4 @@
+![0](https://github.com/user-attachments/assets/6824fb47-3431-432e-9348-a7c0171bf4dd)
 To install the application, launch the program file Traces_Network_Analyzer
 
 If the installation does not start, it is advised to deactivate the Windows Security and try again to ensure a smooth installation process.
